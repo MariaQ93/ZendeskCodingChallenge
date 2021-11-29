@@ -5,12 +5,12 @@ Ticket Viewer is a system that allows users to view ticket lists, as well as vie
 ## Setup
 
 * Install the latest version of [Java](https://java.com) and [Maven](https://maven.apache.org/download.html).
-* Download the file and remember where you saved it.
+* Download the TicketViewer-1.0-SNAPSHOT.jar file and remember where you saved it.
 * Open up the command line, and run the program like below.
 
 ```bash
-javac TicketViewer.java
-java TicketViewer
+cd Download //the file location
+java -jar TicketViewer-1.0-SNAPSHOT.jar 
 ```
 
 ## Instruction

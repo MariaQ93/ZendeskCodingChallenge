@@ -27,7 +27,7 @@
                         <archive>
                             <manifest>
                                 <addClasspath>true</addClasspath>
-                                <mainClass>org.whq.learning.helloworld.MainApplication</mainClass> <!-- 此处为主入口-->
+                                <mainClass>com.qly.TicketViewer.TicketViewer</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
